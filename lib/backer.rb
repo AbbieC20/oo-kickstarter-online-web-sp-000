@@ -15,4 +15,3 @@ class Backer
   end
 
 end #class end
-
